@@ -15,6 +15,6 @@ class jeniskamarModel extends Model
         'id_jenis_kamar',
         'nama_kamar',
         'status',
-        'id',
+        // 'id',
     ];
 }
